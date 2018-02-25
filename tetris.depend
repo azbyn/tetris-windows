@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1519565094 source:c:\users\azbyn\desktop\tetris\main.cpp
+	"misc.h"
+	"point.h"
+	"curses.h"
+	<algorithm>
+	<array>
+	<atomic>
+	<chrono>
+	<csignal>
+	<cstdint>
+	<cstring>
+	<exception>
+	<fstream>
+	<random>
+	<stdexcept>
+	<string>
+	<thread>
+
+1519557968 c:\users\azbyn\desktop\tetris\misc.h
+	<array>
+	<memory>
+	<string>
+	<utility>
+
+1519557968 c:\users\azbyn\desktop\tetris\point.h
+
+1220933418 c:\users\azbyn\desktop\tetris\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
